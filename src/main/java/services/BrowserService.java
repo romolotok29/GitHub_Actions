@@ -40,6 +40,7 @@ public class BrowserService {
         chromeOptions.addArguments("--silent");
         chromeOptions.addArguments("--start-maximized");
         chromeOptions.addArguments("--incognito");
+        chromeOptions.addArguments("--headless");
         return chromeOptions;
     }
 
