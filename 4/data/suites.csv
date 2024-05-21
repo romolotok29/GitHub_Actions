@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"skipped","Tue May 21 19:29:13 GMT 2024","Tue May 21 19:29:13 GMT 2024","1","High Priority Suite","Smoke","tests.AdditionalTests","tests.AdditionalTests","loginAsLockedUserTest","Тест на проверку заблокированного пользователя","Проверяем логин с заблокированным пользователем"
+"broken","Tue May 21 19:29:13 GMT 2024","Tue May 21 19:29:13 GMT 2024","4","High Priority Suite","Smoke","tests.EndToEndTest","tests.EndToEndTest","setup","setup",""
+"skipped","Tue May 21 19:29:13 GMT 2024","Tue May 21 19:29:13 GMT 2024","1","High Priority Suite","Smoke","tests.EndToEndTest","tests.EndToEndTest","e2eTest","E2E тест-сценарий","Проверка основного функционала на сайте https://www.saucedemo.com/"
+"skipped","Tue May 21 19:29:13 GMT 2024","Tue May 21 19:29:13 GMT 2024","1","High Priority Suite","Smoke","tests.AdditionalTests","tests.AdditionalTests","incorrectLoginTest","Тест на проверку неправильного логина","Проверяем логин с некорректными кредами"
+"broken","Tue May 21 19:29:13 GMT 2024","Tue May 21 19:29:13 GMT 2024","0","High Priority Suite","Smoke","tests.AdditionalTests","tests.AdditionalTests","setup","setup",""
