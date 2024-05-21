@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue May 21 21:14:43 GMT 2024","Tue May 21 21:14:44 GMT 2024","1473","High Priority Suite","Smoke","tests.EndToEndTest","tests.EndToEndTest","e2eTest","E2E тест-сценарий","Проверка основного функционала на сайте https://www.saucedemo.com/"
+"passed","Tue May 21 21:14:43 GMT 2024","Tue May 21 21:14:43 GMT 2024","434","High Priority Suite","Smoke","tests.AdditionalTests","tests.AdditionalTests","incorrectLoginTest","Тест на проверку неправильного логина","Проверяем логин с некорректными кредами"
+"passed","Tue May 21 21:14:44 GMT 2024","Tue May 21 21:14:44 GMT 2024","300","High Priority Suite","Smoke","tests.AdditionalTests","tests.AdditionalTests","loginAsLockedUserTest","Тест на проверку заблокированного пользователя","Проверяем логин с заблокированным пользователем"
