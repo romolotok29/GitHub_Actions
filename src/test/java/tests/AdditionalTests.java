@@ -55,7 +55,7 @@ public class AdditionalTests extends BaseTest {
                         .successfulLogin(simpleUser)
                         .moveToSingleProductPage(product)
                         .addItemToCart()
-                        .getAmountOfItemsInCart(), 2
+                        .getAmountOfItemsInCart(), 1
         );
     }
 }

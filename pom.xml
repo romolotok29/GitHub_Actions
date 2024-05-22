@@ -65,7 +65,8 @@
                         -javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"
                     </argLine>
                     <suiteXmlFiles>
-                        <suiteXmlFile>target/test-classes/high-priority-parallel.xml</suiteXmlFile>
+                        <!--suppress UnresolvedMavenProperty -->
+                        <suiteXmlFile>target/test-classes/${suiteFileName}</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
                 <dependencies>
