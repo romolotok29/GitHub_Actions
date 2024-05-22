@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed May 22 17:26:43 GMT 2024","Wed May 22 17:26:45 GMT 2024","1965","High Priority Suite","Smoke","tests.EndToEndTest","tests.EndToEndTest","e2eTest","E2E тест-сценарий","Проверка основного функционала на сайте https://www.saucedemo.com/"
